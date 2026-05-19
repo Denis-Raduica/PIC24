@@ -1,6 +1,6 @@
 # PIC24 Instruction Set Implementation in VHDL
 
-A university computer architecture project focused on implementing and verifying a simplified PIC24-style processor using VHDL.
+A computer architecture project focused on implementing and verifying a simplified PIC24-style processor using VHDL.
 
 The project was developed in a Xilinx-based environment and verified using ModelSim and MPLAB X IDE.  
 It includes custom instruction implementations, control logic design, ALU operations, branching behavior, register management, and simulation-based verification.
@@ -127,29 +127,6 @@ The documentation includes:
 - control unit truth tables,
 - simulation screenshots,
 - verification results.
-
----
-
-## Repository Structure
-
-```text
-/docs          -> Technical documentation
-/src           -> VHDL source files
-/tests         -> Test benches and simulations
-/screenshots   -> Simulation and architecture screenshots
-```
-
----
-
-## Screenshots
-
-(Add screenshots here)
-
-Examples:
-- Block diagram
-- ALU simulations
-- Branch instruction verification
-- Flag behavior tests
 
 ---
 
