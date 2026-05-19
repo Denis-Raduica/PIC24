@@ -1,0 +1,46 @@
+# Current time Tue Jan 07 20:47:17 2025
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x1002bd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 7    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 8    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x06109390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x064e8700: '<unknown (@0x64e8700)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Fri Jan 10 21:59:47 2025
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x1002bd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 7    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 8    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x06119390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x064ca208: '<unknown (@0x64ca208)>'
+StackWalk failed 126
+# End of Stack Trace
+
